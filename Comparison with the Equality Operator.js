@@ -7,8 +7,8 @@ function testEqual(val) {
   return "Not Equal";
 }
 
-// Change this value to test
+// Change this value to test Number
 testEqual(12);
 
-// Comparing of numbers and strings
+// Comparing of numbers and String
 testEqual("12")
